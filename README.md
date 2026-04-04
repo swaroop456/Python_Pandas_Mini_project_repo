@@ -23,13 +23,13 @@ correlation analysis and strategic recommendations.
 
 | File Name | Description |
 |---|---|
-| Python and Pandas Mini Project Question.docx | Problem statement given by instructor |
+| Python and Pandas Mini Project Question.pdf | Problem statement given by instructor |
 | Python Pandas Mini Project Script.py | Main Python script for data cleaning & analysis |
 | Cafe_Sales_Raw.csv | Raw cafeteria sales dataset |
 | Cafe_Sales_Cleaned.csv | Cleaned dataset after data processing |
 | plot1.png | Matplotlib plot – Quantity vs Total Spent |
 | plot2.png | Matplotlib plot – Price Per Unit vs Total Spent |
-| Cafeteria_Sales_Data_Analysis_Report.docx | Final analysis report with correlation findings |
+| Cafeteria_Sales_Data_Analysis_Report.pdf | Final analysis report with correlation findings |
 
 ---
 
@@ -47,7 +47,7 @@ duplicates & formatting issues
 
 ## 📊 Project Workflow
 
-Examining the Project Question Statement (Python_Pandas_Mini_Project_Question.docx)
+Examining the Project Question Statement (Python_Pandas_Mini_Project_Question.pdf)
 ↓
 Raw Data (Cafe_sales_Raw.csv)
 ↓
@@ -59,7 +59,7 @@ Visualization — Plot 1 & Plot 2 (Matplotlib)
 ↓
 Correlation Analysis
 ↓
-Final Report (Cafeteria_Sales_Data_Analysis_Report.docx)
+Final Report (Cafeteria_Sales_Data_Analysis_Report.pdf)
 ---
 
 ## 📈 Key Highlights
