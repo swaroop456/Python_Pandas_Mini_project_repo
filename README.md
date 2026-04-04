@@ -75,4 +75,4 @@ Final Report (Cafeteria_Sales_Data_Analysis_Report.docx)
 **Vathada Swaroop Kumar**
 
 - LinkedIn: [Swaroop Kumar Vathada](https://www.linkedin.com/in/swaroopkumarvathada)
-  [Email](swaroop.vathada@gmail.com)
+  
